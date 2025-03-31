@@ -28,7 +28,7 @@ You might notice my GitHub is still a work in progress—I've recently transitio
 
 ## 📫 Contact
 - 💻 GitHub: [M-022](https://github.com/M-022)
-- 🔗 LinkedIn: [Samuel O.](https://linkedin.com/in/samuel-o)
+- 🔗 LinkedIn: [Samuel O.](https://www.linkedin.com/in/samuel-omotesho)
 - ✉️ Email: Samuel.Omotesho@outlook.com
 
 🚀 _Always learning, always hacking (ethically)_
