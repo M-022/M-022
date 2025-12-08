@@ -18,6 +18,7 @@ You might notice my GitHub is still a work in progress—I've recently transitio
 ## 🚀 Projects (Pending)
 - 🔑 **[Password Manager]** - Secure credential storage using encryption.
 - 🔍  **[Penetration Testing Toolkit]** - Ethical hacking toolkit.
+- 📓  **[Cyber Security Training Website]** - Simple but Secure website to carry out cyber Training.
 
 ## 📜 Certifications
 - Google Cybersecurity Professional Certificate
