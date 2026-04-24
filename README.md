@@ -19,12 +19,17 @@ You might notice my GitHub is still a work in progress—I've recently transitio
 - 🔑 **[Password Manager]** - Secure credential storage using encryption.
 - 🔍  **[Penetration Testing Toolkit]** - Ethical hacking toolkit.
 - 📓  **[Cyber Security Training Website]** - Simple but Secure website to carry out cyber Training.
+- 📓  **[CTF Challenges]** - Fun website to Test out hacking skills.
+
 
 ## 📜 Certifications
 - Google Cybersecurity Professional Certificate
 - Cisco Cybersecurity Fundamentals
-- Microsoft Azure Security Certification (In Progress)
-- Google Cloud (In Progress)
+- Microsoft Azure (AZ-900)
+- Microsoft Security (SC-900)
+- Microdoft Security (SC-300)
+- Crest (CPSA)
+- Microsoft Azure AZ-500 (In Progress)
 - CISCO Networking - CCNA (In Progress)
 
 ## 📫 Contact
